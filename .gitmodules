@@ -1,0 +1,6 @@
+[submodule "pencil-api"]
+	path = pencil-api
+	url = https://github.com/1heykal/pencil.git
+[submodule "pencil-web"]
+	path = pencil-web
+	url = https://github.com/1heykal/pencil-ng.git
