@@ -44,8 +44,8 @@ Pencil enables users to create, manage, and explore content through a structured
 
 ## Repositories
 
-* Backend API: [Pencil API](https://github.com/1heykal/Pencil)
-* Frontend App: [Pencil Web](https://github.com/1heykal/pencil-ng)
+* `pencil-api/` → [pencil](https://github.com/1heykal/pencil)
+* `pencil-web/` → [pencil-ng](https://github.com/1heykal/pencil-ng)
 
 ## Goal
 
